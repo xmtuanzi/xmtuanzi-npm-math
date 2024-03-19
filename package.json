@@ -1,0 +1,24 @@
+{
+  "name": "xmtuanzi-npm-math",
+  "version": "1.0.1",
+  "description": "xmtuanzi-npm-math",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmtuanzi/xmtuanzi-npm-math.git"
+  },
+  "dependencies": {
+    "mathjs": "*",
+    "date-fns": "*",
+    "crypto-js": "*",
+    "lodash": "*",
+    "xwz-web3-001": "*",
+    "swiftui-ricky": "*"
+  }
+}
